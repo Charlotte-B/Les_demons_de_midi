@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1520785696 source:c:\charlotte efrei cours\informatique - projet 3 arene\pj_arene_3.1 version 6 multi_joueurs - original\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<SDL/SDL.h>
+
+1520898519 source:d:\charlotte efrei cours\informatique - projet 3 et 4 - arene\pj_arene_3.1 version 6 multi_joueurs - original\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<SDL/SDL.h>
+
+1520928104 source:d:\charlotte efrei cours\informatique - projet 3 et 4 - arene\pj_arene_3.1 version 8 multi_joueurs - original 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1520937742 source:d:\charlotte efrei cours\informatique - projet 3 et 4 - arene\pj_arene_3.1 version 1.8 finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1520938048 source:c:\charlotte efrei cours\pj_arene_3.1 version 1.9 finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
